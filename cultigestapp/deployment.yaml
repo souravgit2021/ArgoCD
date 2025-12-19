@@ -16,5 +16,5 @@ spec:
       - name: cultigestapp
         image: docsourav1992/cultigestapp
         ports:
-          - containerPort: 80
+          - containerPort: 8080
         imagePullPolicy: IfNotPresent
